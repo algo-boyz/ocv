@@ -1,6 +1,7 @@
-# OdinCV - real-time computer vision for Odin
-
-<img src="opq.png" alt="opq" width="960">
+<div align="center">
+    <img src="demo/assets/ocv.png" alt="ocv" width="300">
+    <p>real-time computer vision for Odin.</p>
+</div>
 
 ## Run the demo
 
